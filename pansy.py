@@ -194,7 +194,8 @@ def get_ip():
 
     elif '/' in target_host:
         ip_range = list(netaddr.IPNetwork(target_host))
-    
+        ip_range = ip_range[1:-1]
+
     else:
         try:
             ip_range = [socket.gethostbyname(target_host)]
