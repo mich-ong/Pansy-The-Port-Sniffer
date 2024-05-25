@@ -1,5 +1,3 @@
-# CoE197KA
-# MP2: Hashing! Bless You~ [Avelino Genaro A. Basco (2020-00988) and Michelle R. Ong (2020-05505)]
 """
 ====================================================================
                                                    __      
@@ -8,7 +6,7 @@
                                                   (_(_/-(_/
 
 ---------------------------------------------------------------------  
-Port Sniffer by Avelino Genaro Basco and Michelle Ong. (and Pansy)
+Port Sniffer by Hashing! Bless you~  (and Pansy)
 Usage: python pansy.py <hostname|ip|ip-range|network> <ports> <udp|tcp>
 
 Instructions:
@@ -241,7 +239,7 @@ def main():
                                                   (_(_/-(_/
 
 ---------------------------------------------------------------------  
-Port Sniffer by Avelino Genaro Basco and Michelle Ong. (and Pansy)
+Port Sniffer by Hashing! Bless you~  (and Pansy)
 Usage: python pansy.py <hostname|ip|ip-range|network> <ports> <udp|tcp>
 
 Instructions:
@@ -267,7 +265,7 @@ Instructions:
       (_(_/-(_/    |_[]__|__[]___|_||_|__<|____________;;_|_|___/\___|_.
                    ====================================================
 ------------------------------------------------------------------------  
-Port Sniffer by Avelino Genaro Basco and Michelle Ong. (and Pansy)
+Port Sniffer by Hashing! Bless you~ (and Pansy)
 Usage: python pansy.py <hostname|ip|ip-range|network> <ports> <udp|tcp>
 For help: python pansy.py
 
